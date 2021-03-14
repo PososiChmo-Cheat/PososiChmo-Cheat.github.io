@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Даров бро! Тут ты можешь обучиться начальному уровню в написании скриптов для Game Guardian
 
 You can use the [editor on GitHub](https://github.com/PososiChmo-Cheat/PososiChmo-Cheat.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
